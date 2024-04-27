@@ -1,0 +1,1 @@
+import{_ as r}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{y as e,o as n,z as s,v as a,i as c}from"./@vue-BNcvJdUh.js";const _={};function m(o,i){const t=e("v-btn");return n(),s(t,{color:"primary",type:"submit"},{default:a(()=>[c(o.$slots,"default")]),_:3})}const l=r(_,[["render",m]]);export{l as P};
